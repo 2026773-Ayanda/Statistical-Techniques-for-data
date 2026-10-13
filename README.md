@@ -1,1 +1,1 @@
-Exploratory data analysis of Fortune 500 financial data (1955–2005), using Python, Pandas, Matplotlib and Seaborn to investigate revenue and profit trends, clean non-numeric values, and analyse annual averages and variability.
+
